@@ -1,0 +1,19 @@
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .signup-inputs {
+    height: fit-content;
+    padding: 1rem;
+    font-size: small;
+  }
+  
+  .user-link {
+    padding-right: 2rem;
+  }
+  
